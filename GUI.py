@@ -36,7 +36,7 @@ class GUI:
         title.place(x=385)
 
         #right side
-        right = Label(self.right, text = "Undireted Graph and Degrees:",bg='white',font="Arial 12 bold")
+        right = Label(self.right, text = "Undirected Graph and Degrees:",bg='white',font="Arial 12 bold")
         right.place(x=15,y=10)
 
         #bottom
